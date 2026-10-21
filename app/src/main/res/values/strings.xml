@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokieHunt</string>
+    <string name="header_badge">Referral bonus index</string>
+    <string name="header_title_prefix">Share Bonus</string>
+    <string name="header_title_highlight">Rankings</string>
+    <string name="header_subtitle">Referral share invite bonuses, ranked by the highest max withdrawal.</string>
+    <string name="action_add_site">Add site</string>
+    <string name="action_scan_all">Scan all %1$d</string>
+    <string name="action_scanning">Scanning…</string>
+    <string name="action_all_scanned">All scanned</string>
+    <string name="search_hint">Search a site or domain…</string>
+    <string name="disclaimer_text">18+ only. Offers change without notice — always check the terms on the site itself.</string>
+</resources>

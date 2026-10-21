@@ -1,0 +1,6 @@
+{
+  "name": "PokieHunt",
+  "description": "Real-time referral bonus index and domain scanner ranked by highest max withdrawal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
